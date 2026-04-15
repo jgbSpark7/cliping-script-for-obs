@@ -6,7 +6,7 @@
 
 Download and install:
 
-* OBS Studio 32.1.1
+* OBS Studio 32.1.1 or newer
 * Python 3.11.9
 
 ---
